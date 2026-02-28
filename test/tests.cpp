@@ -59,3 +59,4 @@ TEST(AlgTest, SumPrimeNoPrimes) {
   EXPECT_EQ(sumPrime(1), 0);
 }
 
+
